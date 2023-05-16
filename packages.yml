@@ -1,0 +1,3 @@
+packages:
+  - git: "https://github.com/christineberger/dbt-snowflake-demo-multi1.git"
+    revision: 3.0.0
