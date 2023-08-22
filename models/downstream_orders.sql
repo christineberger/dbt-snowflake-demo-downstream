@@ -1,0 +1,1 @@
+select * from {{ ref('upstream_project', 'fct_customer_orders') }}
