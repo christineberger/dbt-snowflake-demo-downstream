@@ -1,4 +1,4 @@
-name: 'domain_project'
+name: 'downstream_project'
 version: '1.0.0'
 config-version: 2
 
@@ -17,6 +17,4 @@ clean-targets:
   - "dbt_packages"
 
 models:
-  domain_project:
-    +schema: multi2_project
-    materialized: view
+  downstream_project:
