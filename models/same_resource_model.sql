@@ -1,1 +1,1 @@
-select 1 as fun
+select 2 as fun
